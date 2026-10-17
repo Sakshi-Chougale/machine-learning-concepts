@@ -4,16 +4,16 @@ A structured collection of **Machine Learning concepts, practical implementation
 
 ## 📚 Topics Covered
 
-- **[Data Preprocessing](Data-Preprocessing/README.md)** — Clean, transform, and prepare datasets for machine learning.
-- **[Exploratory Data Analysis (EDA)](EDA-and-Visualization/README.md)** — Analyze data distributions, identify patterns, and explore relationships through visualization.
-- **[Linear and Logistic Regression](Regression/README.md)** — Explore regression for numerical prediction and logistic regression for classification.
-- **[Principal Component Analysis (PCA)](PCA/README.md)** — Reduce dimensionality while preserving important information.
-- **[Support Vector Machine (SVM)](SVM/README.md)** — Perform classification using decision boundaries, margins, and kernel methods.
-- **[K-Nearest Neighbors (KNN)](KNN/README.md)** — Understand classification and prediction based on neighboring data points.
-- **[Regression Model Comparison](Regression-Model-Comparison/README.md)** — Compare regression algorithms using appropriate evaluation metrics.
-- **[Classification Model Comparison](Classification-Model-Comparison/README.md)** — Evaluate and compare classification algorithms using classification metrics.
-- **[K-Means Clustering](K-Means-Clustering/README.md)** — Group similar data points into clusters and explore customer segmentation using centroids and the Elbow Method.
-- **[Single-Layer Neural Networks](Single-Layer-Neural-Networks/README.md)** — Explore artificial neurons, Perceptron, ADALINE, gradient descent, and decision boundaries through practical implementations.
+- **Data Preprocessing** — Clean, transform, and prepare datasets for machine learning.
+- **Exploratory Data Analysis (EDA)** — Analyze data distributions, identify patterns, and explore relationships through visualization.
+- **Linear and Logistic Regression** — Explore regression for numerical prediction and logistic regression for classification.
+- **Principal Component Analysis (PCA)** — Reduce dimensionality while preserving important information.
+- **Support Vector Machine (SVM)** — Perform classification using decision boundaries, margins, and kernel methods.
+- **K-Nearest Neighbors (KNN)** — Understand classification and prediction based on neighboring data points.
+- **Regression Model Comparison** — Compare regression algorithms using appropriate evaluation metrics.
+- **Classification Model Comparison** — Evaluate and compare classification algorithms using classification metrics.
+- **K-Means Clustering** — Group similar data points into clusters and explore customer segmentation using centroids and the Elbow Method.
+- **Single-Layer Neural Networks** — Explore artificial neurons, Perceptron, ADALINE, gradient descent, and decision boundaries through practical implementations.
 
 ## 🛠️ Technologies and Tools
 
