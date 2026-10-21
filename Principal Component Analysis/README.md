@@ -1,4 +1,4 @@
-# Principal Component Analysis (PCA)
+# Dimensionality Reduction Using Principal Component Analysis (PCA)
 
 Principal Component Analysis is a dimensionality-reduction technique. It transforms the original features into a smaller set of new features called principal components, ordered by the amount of variance they explain.
 
