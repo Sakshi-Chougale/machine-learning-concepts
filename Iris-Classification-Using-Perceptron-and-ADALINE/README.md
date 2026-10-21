@@ -1,4 +1,4 @@
-# Iris Classification Using Perceptron and ADALINE
+# Single-Layer Neural Networks
 
 An introduction to artificial neurons and single-layer neural networks, exploring how Perceptron and ADALINE learn from data using weight updates and gradient descent.
 
