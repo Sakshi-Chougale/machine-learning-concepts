@@ -1,4 +1,4 @@
-# Support Vector Machine (SVM)
+# Iris Flower Classification Using Support Vector Machine (SVM)
 
 Support Vector Machine is a supervised learning method commonly used for classification. It seeks a decision boundary that separates classes while maximizing the margin between the boundary and the closest training points.
 
