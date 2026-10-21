@@ -1,4 +1,4 @@
-# Comparing Regression Models
+# California Housing Price Prediction Using Regression Algorithms
 
 Different regression algorithms learn different patterns. Comparing them on the same data split helps identify a model that suits the prediction task.
 
