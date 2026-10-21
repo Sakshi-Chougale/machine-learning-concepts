@@ -1,4 +1,4 @@
-# K-Nearest Neighbors (KNN)
+# Iris Flower Classification Using K-Nearest Neighbors (KNN)
 
 K-Nearest Neighbors is a supervised, instance-based algorithm used for classification and regression. For classification, it predicts a new point's class using the labels of its nearest training points.
 
