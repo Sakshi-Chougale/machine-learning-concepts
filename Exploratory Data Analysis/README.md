@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) and Visualization
+# Exploratory Data Analysis and Visualization
 
 Exploratory Data Analysis is the process of examining a dataset to understand its structure, quality, distributions, unusual values, and relationships before modeling.
 
