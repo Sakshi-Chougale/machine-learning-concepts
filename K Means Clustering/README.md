@@ -1,4 +1,4 @@
-# K-Means Clustering
+# Mall Customer Segmentation Using K-Means Clustering
 
 K-Means is an unsupervised Machine Learning algorithm that groups similar data points into clusters based on their features.
 
