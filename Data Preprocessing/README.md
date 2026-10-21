@@ -1,4 +1,4 @@
-#Employee-Data-Cleaning-and-Preprocessing
+# Employee-Data-Cleaning-and-Preprocessing
 
 Data preprocessing prepares raw data for analysis and Machine Learning. Real-world datasets can contain missing values, inconsistent formats, duplicate records, and features measured on different scales.
 
