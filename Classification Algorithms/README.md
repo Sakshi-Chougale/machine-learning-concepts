@@ -1,4 +1,4 @@
-# Comparing Classification Models
+# Comparison of Classification Algorithms
 
 Classification models predict categories, such as spam/not spam or approved/rejected. Comparing several algorithms helps reveal which model is most suitable for a particular dataset and objective.
 
